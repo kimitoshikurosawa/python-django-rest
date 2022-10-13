@@ -3,6 +3,7 @@
 *.pyc
 *.pyo
 *.idea
+.idea
 env/
 dist/
 build/
