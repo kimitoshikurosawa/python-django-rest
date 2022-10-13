@@ -5,7 +5,7 @@ Sample Django application
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone git clone https://kimanamisago@bitbucket.org/africalinkscapital/backend.git
+$ git clone git clone https://github.com/kimitoshikurosawa/python-django-rest.git
 $ cd app
 ```
 
